@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surendra Kumar</h1>
-<h3 align="center">A passionate full Sacktech developer from India</h3>
+<h3 align="center">Aspiring Fullstack (MERN) Developer </h3>
 
 - 💬 Ask me about **react**
 
