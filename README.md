@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surendra Kumar</h1>
-<h3 align="center">Aspiring Fullstack (MERN) Developer</h3>
+<h3 align="center">Aspiring Fullstack Developer</h3>
 
 - 🌱 I’m currently learning **Redux, Chakra**
 
