@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surendra Kumar</h1>
 <h3 align="center">Aspiring Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **Redux, Chakra**
+
 
 - 👨‍💻 All of my projects are available at [https://surendrakumar878.github.io/](https://surendrakumar878.github.io/)
 
