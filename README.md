@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at  [https://surendrakumar878.github.io/](https://surendrakumar878.github.io/)
+- 👨‍💻 All of my projects are available at [https://surendrakumar878.github.io/](https://surendrakumar878.github.io/)
 
 <!-- - 📝 I regularly write articles on [https://surendrakumar878.github.io/](https://surendrakumar878.github.io/) -->
 
