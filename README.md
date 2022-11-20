@@ -3,15 +3,15 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://surendrakumar878.github.io/](https://surendrakumar878.github.io/)
+
 
 <!-- - 📝 I regularly write articles on [https://surendrakumar878.github.io/](https://surendrakumar878.github.io/) -->
 
 - 💬 Ask me about **A skilled 2021 Computer Science Graduate with proficiency in MERN (Full-Stack) Development and aspirations of learning about the new trends in the blockchain environment. Also possesses good communication skills and team collaboration skills.**
 
-- 📫 How to reach me **surendramarshkole78@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rdnlLBUJtzV89PklADzML3YjBRPEhQSv/view?usp=sharing](https://drive.google.com/file/d/1rdnlLBUJtzV89PklADzML3YjBRPEhQSv/view?usp=sharing)
+
+
 
 - ⚡ portfolio **https://surendrakumar878.github.io/**
 
