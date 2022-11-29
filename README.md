@@ -8,14 +8,6 @@
 <!-- - 📝 I regularly write articles on [https://surendrakumar878.github.io/](https://surendrakumar878.github.io/) -->
 
 - 💬 Ask me about **A skilled 2021 Computer Science Graduate with proficiency in MERN (Full-Stack) Development and aspirations of learning about the new trends in the blockchain environment. Also possesses good communication skills and team collaboration skills.**
-
-
-
-
-
-
-
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
