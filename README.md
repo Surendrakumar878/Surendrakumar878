@@ -39,7 +39,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=surendrakumar878&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=surendrakumar878&theme=react&hide_border=false&include_all_commits=true)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surendrakumar878&theme=react&hide_border=false)<br/>
 
