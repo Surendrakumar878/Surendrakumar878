@@ -8,7 +8,7 @@
 
 ⚛️ Some technologies that I love to working with Mongodb, Express, React and Nodejs.
 
-🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap & styled-component.
+🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap &styled-component.
 
 📧 Email - surendramarshkole78@gmail.com
 
