@@ -46,6 +46,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surendrakumar878&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<a href="https://github.com/tomondre"><img src="contributions.svg"></a>
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
