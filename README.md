@@ -1,8 +1,13 @@
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Surendra Kumar</h1>
 
+👋 Hello there! I'm Surendra Kumar, a passionate React.js developer on a mission to build delightful and efficient web applications.
 
+🚀 With a solid foundation in front-end development, I specialize in crafting interactive and responsive user interfaces using the power of React.js. My journey in the world of web development has equipped me with a keen eye for design and a commitment to delivering seamless user experiences.
+
+💻 I thrive on turning complex problems into simple, elegant solutions. Whether it's architecting a scalable application, optimizing performance, or integrating third-party APIs, I love tackling challenges that push my skills to new heights.
 🛠️ My tech stack includes:
    - React.js
    - Redux for state management
@@ -17,12 +22,7 @@
 
 🌟 Let's build amazing things together and make the web a better place, one component at a time!
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Surendra Kumar</h1>
-<h3 align="center">👋 Hello there! I'm [Your Name], a passionate React.js developer on a mission to build delightful and efficient web applications.
 
-🚀 With a solid foundation in front-end development, I specialize in crafting interactive and responsive user interfaces using the power of React.js. My journey in the world of web development has equipped me with a keen eye for design and a commitment to delivering seamless user experiences.
-
-💻 I thrive on turning complex problems into simple, elegant solutions. Whether it's architecting a scalable application, optimizing performance, or integrating third-party APIs, I love tackling challenges that push my skills to new heights. </h3>
 <img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" height="200px" width="300" align="right" alt="animation"/>
 
 ⚛️ Some technologies that I love to working with Mongodb, Express, React and Nodejs.
